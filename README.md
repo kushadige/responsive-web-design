@@ -10,10 +10,10 @@
 ![city-skyline](https://user-images.githubusercontent.com/101992799/174929769-5cf1a142-cfa2-41d5-85a3-5ae85d72d9a3.png)
 
 ## Piano
-![piano](https://user-images.githubusercontent.com/101992799/174929755-c4938156-47f4-4c3f-adf3-98707c5fb367.png)
+![piano](https://user-images.githubusercontent.com/101992799/174931594-c765a2a6-9820-4405-9aeb-fecba8da3a04.png)
 
 ## Picasso Painting
-![picasso-painting](https://user-images.githubusercontent.com/101992799/174929744-16792bdd-3490-4e64-90a9-14541cbabf5c.png)
+![picasso-painting](https://user-images.githubusercontent.com/101992799/174931581-572dd16b-91fe-4cd7-832b-cbf529479368.png)
 
 ## Author
 
